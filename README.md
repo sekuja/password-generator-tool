@@ -9,7 +9,7 @@ Run the script and enter the desired password length when prompted:
 git clone https://github.com/sekuja/password-generator-tool.git
 ```
 ```
-cd pwgen
+cd password-generator-tool
 ```
 ```
 python3 pwgen.py
